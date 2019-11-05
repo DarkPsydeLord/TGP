@@ -1,4 +1,4 @@
-# TGP - Transposition Given a Position
+# TGP - Transposition Given a Position (in numbers)
   This code was intended to explain cryptography to a coworker using  pseudokey to encrypt a message, this is achieved
   giving the program a series of non repeated numbers from 1 to 5 eg: "13425" that Scramble the word input into those
   positions, no further validations were added since were only meant to proof the concept.
