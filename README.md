@@ -3,6 +3,8 @@
   giving the program a series of non repeated numbers from 1 to 5 eg: "13425" that Scramble the word input into those
   positions, no further validations were added since were only meant to proof the concept.
   
+  Everything is explained in spanish feel free to ask me for an english translation.
+  
   you are more than welcome to modify the code to add further validation to the code.
   
 ## Authors
